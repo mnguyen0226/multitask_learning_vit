@@ -6,40 +6,40 @@ Image classification is a fundamental task in computer vision, with many practic
 ## Results
 
 ### ViT: Single-Task Learning on CIFAR 10 with 20 epochs
-![](https://github.com/mnguyen0226/multitask_learning_vit/blob/main/docs/stl_vit_1.png)
+![](https://github.com/mnguyen0226/multitask_learning_vit/blob/main/docs/stl_vit_1.PNG)
 
 ### ViT: Single-Task Learning on CIFAR 10 with 20 epochs (superclass)
-![](https://github.com/mnguyen0226/multitask_learning_vit/blob/main/docs/stl_vit_2.png)
+![](https://github.com/mnguyen0226/multitask_learning_vit/blob/main/docs/stl_vit_2.PNG)
 
 ### ViT: Single-Task Learning on CIFAR 100 with 20 epochs
-![](https://github.com/mnguyen0226/multitask_learning_vit/blob/main/docs/stl_vit_3.png)
+![](https://github.com/mnguyen0226/multitask_learning_vit/blob/main/docs/stl_vit_3.PNG)
 
 ### ViT: Single-Task Learning on CIFAR 100 with 20 epochs (superclass)
-![](https://github.com/mnguyen0226/multitask_learning_vit/blob/main/docs/stl_vit_4.png)
+![](https://github.com/mnguyen0226/multitask_learning_vit/blob/main/docs/stl_vit_4.PNG)
 
 ### ViT: Multi-Task Learning on CIFAR 10 with 20 epochs
-![](https://github.com/mnguyen0226/multitask_learning_vit/blob/main/docs/mtl_vit_1.png)
+![](https://github.com/mnguyen0226/multitask_learning_vit/blob/main/docs/mtl_vit_1.PNG)
 
 ### ViT: Multi-Task Learning on CIFAR 100 with 20 epochs
-![](https://github.com/mnguyen0226/multitask_learning_vit/blob/main/docs/mtl_vit_2.png)
+![](https://github.com/mnguyen0226/multitask_learning_vit/blob/main/docs/mtl_vit_2.PNG)
 
 ### ResNet-152: Single-Task Learning on CIFAR 10 with 20 epochs
-![](https://github.com/mnguyen0226/multitask_learning_vit/blob/main/docs/stl_resnet_1.png)
+![](https://github.com/mnguyen0226/multitask_learning_vit/blob/main/docs/stl_resnet_1.PNG)
 
 ### ResNet-152: Single-Task Learning on CIFAR 10 with 20 epochs (superclass)
-![](https://github.com/mnguyen0226/multitask_learning_vit/blob/main/docs/stl_resnet_2.png)
+![](https://github.com/mnguyen0226/multitask_learning_vit/blob/main/docs/stl_resnet_2.PNG)
 
 ### ResNet-152: Single-Task Learning on CIFAR 100 with 20 epochs
-![](https://github.com/mnguyen0226/multitask_learning_vit/blob/main/docs/stl_resnet_3.png)
+![](https://github.com/mnguyen0226/multitask_learning_vit/blob/main/docs/stl_resnet_3.PNG)
 
 ### ResNet-152: Single-Task Learning on CIFAR 100 with 20 epochs (superclass)
-![](https://github.com/mnguyen0226/multitask_learning_vit/blob/main/docs/stl_resnet_4.png)
+![](https://github.com/mnguyen0226/multitask_learning_vit/blob/main/docs/stl_resnet_4.PNG)
 
 ### ResNet-152: Multi-Task Learning on CIFAR 10 with 20 epochs
-![](https://github.com/mnguyen0226/multitask_learning_vit/blob/main/docs/mtl_resnet_1.png)
+![](https://github.com/mnguyen0226/multitask_learning_vit/blob/main/docs/mtl_resnet_1.PNG)
 
 ### ResNet-152: Multi-Task Learning on CIFAR 100 with 20 epochs
-![](https://github.com/mnguyen0226/multitask_learning_vit/blob/main/docs/mtl_resnet_2.png)
+![](https://github.com/mnguyen0226/multitask_learning_vit/blob/main/docs/mtl_resnet_2.PNG)
 
 ## Report
 [Experimental Result Summary](https://github.com/mnguyen0226/multitask_learning_vit/blob/main/docs/results_tables_report.pdf).
