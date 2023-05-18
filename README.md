@@ -44,4 +44,4 @@ Image classification is a fundamental task in computer vision, with many practic
 ## Report
 [Experimental Result Summary](https://github.com/mnguyen0226/multitask_learning_vit/blob/main/docs/results_tables_report.pdf).
 
-[Report]().
+[Report](https://github.com/mnguyen0226/multitask_learning_vit/blob/main/docs/report.pdf).
